@@ -1,0 +1,5 @@
+Behavioral Analysis
+
+Before implantation and lesion surgery, rats were trained to freely explore customized tracks in light condition. Two type of tracks were used. One is linear track, 117 cm long. The other is Zigzag track, with 51 cm wide and 110 cm long. The purpose of training is for rats to be able to navigate turning on the relatively narrow track comfortably. During rat's behaviorial session, rat's trajectory is recorded with camera at 30 hz frame rate via Trodes. 
+
+From recorded trajectory 
